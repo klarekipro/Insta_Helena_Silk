@@ -5,6 +5,18 @@
 **Geographic focus:** France, Italy, Spain  
 **Collections:** Autumn/Winter 2026–2027 and Spring/Summer 2027
 
+## Resume after chat / Продолжение проекта
+
+**[START HERE — PROJECT_HANDOFF.md](PROJECT_HANDOFF.md)** is the source of truth for resuming the project after a chat or branch closes. It records current owner decisions, production state, the four ZIP names and SHA-256 checksums, asset storage limits, and the exact next steps.
+
+- [New-chat continuation prompt](docs/CONTINUE_IN_NEW_CHAT.md)
+- [Image production and no-repeat rules](docs/IMAGE_PRODUCTION_RULES.md)
+- [Complete 01–04 asset inventory](visuals/ASSET_INVENTORY_01_04.md)
+- [Binary upload instructions for Mac/GitHub](docs/UPLOAD_IMAGE_BACKUPS.md)
+- [Machine-readable project state](visuals/PROJECT_STATE.json)
+
+**Verified status on 2026-11-16:** 40 original AI PNG **draft files** across 4 ZIPs, but the PNGs are **not yet saved in GitHub**. The owner must download and back up the archives and ideally upload the PNGs into `visuals/assets/`. Batch 05 remains **NOT STARTED**.
+
 ## Our north star
 
 > **Мы создаём не каталог красивой одежды, а авторский взгляд на мир моды.**
