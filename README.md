@@ -49,6 +49,7 @@ Paris, Milan and Spanish fashion events; designers and collections; silhouettes,
 - **[Research & verified sources](docs/RESEARCH_2026_2027.md)** — season/event distinctions, relevant collection reports and evidence limits.
 - **[10 pilot stories — proposal](content/PILOT_SHORTLIST_10.md)** — balanced shortlist for Helena's review.
 - **[Owner brief and decision log](docs/BRIEF_DECISIONS.md)** — confirmed choices and open decisions.
+- **[AI visual prototypes — register](visuals/AI_PROTOTYPE_REGISTER.md)** — first visual drafts, file names, factual safeguards and upload status.
 - [Editorial vision](docs/EDITORIAL_VISION.md)
 - [Bilingual content strategy](docs/CONTENT_STRATEGY_DE_RU.md)
 - [Master prompt for 30 concepts](docs/MASTER_PROMPT.md)
