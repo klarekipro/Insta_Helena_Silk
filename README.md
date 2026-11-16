@@ -1,6 +1,6 @@
 # Helena Silk — Fashion Editorial Studio
 
-**Status:** Editorial foundation v0.1 · November 2026  
+**Status:** Research and 30-concept editorial draft v0.2 · 16 November 2026  
 **Languages:** Deutsch / Русский  
 **Geographic focus:** France, Italy, Spain  
 **Collections:** Autumn/Winter 2026–2027 and Spring/Summer 2027
@@ -11,9 +11,9 @@
 >
 > *Wir zeigen nicht einfach schöne Mode. Wir zeigen Helenas persönlichen Blick darauf.*
 
-Helena's editorial signature is her personal observation: a surprising colour pairing, the movement of a fabric, an unusual seam, a bag that changes the story of an outfit. Every publication gives the audience a reason to **notice, understand, feel and return**.
+Helena's editorial signature is thoughtful, educational analysis guided by her own eye: a surprising colour pairing, the movement of a fabric, an unusual seam, a bag that changes the story of an outfit. Every publication gives the audience a reason to **notice, understand, feel and return**.
 
-A generic caption says «Тренды сезона: красный цвет». Helena might say: «Я не думала, что этот оттенок красного может так красиво сочетаться с шоколадным. Посмотрите на детали…».
+A generic caption says «Тренды сезона: красный цвет». Helena Silk asks a sharper educational question: «Почему красный и шоколадный могут работать в одном образе? Разберём пропорции и материалы».
 
 ## Mission
 
@@ -45,12 +45,18 @@ Paris, Milan and Spanish fashion events; designers and collections; silhouettes,
 
 ## Documents
 
+- **[30 researched editorial concepts](content/CONCEPTS_30.md)** — 10 France, 10 Italy, 10 Spain; full-look first; RU/DE hooks and evidence per story.
+- **[Research & verified sources](docs/RESEARCH_2026_2027.md)** — season/event distinctions, relevant collection reports and evidence limits.
+- **[10 pilot stories — proposal](content/PILOT_SHORTLIST_10.md)** — balanced shortlist for Helena's review.
+- **[Owner brief and decision log](docs/BRIEF_DECISIONS.md)** — confirmed choices and open decisions.
 - [Editorial vision](docs/EDITORIAL_VISION.md)
 - [Bilingual content strategy](docs/CONTENT_STRATEGY_DE_RU.md)
 - [Master prompt for 30 concepts](docs/MASTER_PROMPT.md)
 - [Editorial workflow](docs/WORKFLOW.md)
 - [Image rights & research protocol](docs/RESEARCH_AND_RIGHTS.md)
 
-**Current stage:** concept and editorial structure. No image generation or claims that 30 posts are already approved.
+**Confirmed brief:** classic × contemporary experimental; full-body runway imagery as primary visual; educational fashion analysis as voice.
 
-**Next decision:** develop 30 differentiated story ideas, select 10 pilots, approve the look and voice, then source or create visuals.
+**Current stage:** 30 ideas prepared as editorial drafts and 10 pilot concepts proposed. No photos acquired, generated, licensed or approved; no Instagram posts published.
+
+**Next decision:** Helena reviews the pilot selection and direction; then the team verifies exact look references, image permissions and prepares full DE/RU captions.
