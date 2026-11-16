@@ -50,6 +50,8 @@ Paris, Milan and Spanish fashion events; designers and collections; silhouettes,
 - **[10 pilot stories — proposal](content/PILOT_SHORTLIST_10.md)** — balanced shortlist for Helena's review.
 - **[Owner brief and decision log](docs/BRIEF_DECISIONS.md)** — confirmed choices and open decisions.
 - **[AI visual prototypes — register](visuals/AI_PROTOTYPE_REGISTER.md)** — first visual drafts, file names, factual safeguards and upload status.
+- **[Batch 03 image registry](visuals/BATCH_03_10_POSTERS.md)** — ten new individual draft visuals, QA and download status.
+- **[Batch 03 bilingual captions](visuals/BATCH_03_CAPTIONS_DE_RU.md)** — native Russian and German descriptions, questions and hashtags.
 - [Editorial vision](docs/EDITORIAL_VISION.md)
 - [Bilingual content strategy](docs/CONTENT_STRATEGY_DE_RU.md)
 - [Master prompt for 30 concepts](docs/MASTER_PROMPT.md)
