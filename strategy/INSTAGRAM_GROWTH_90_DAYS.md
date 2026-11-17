@@ -160,6 +160,10 @@ Start with 6–9 best diverse assets, not all 40. Reuse ideas for different edit
 - Instagram originality/aggregator restrictions reported Apr 2026: https://www.socialmediatoday.com/news/instagram-updates-algorithm-to-benefit-original-creators/819016/
 - Ranking / comparison of formats (third-party evidence, not platform guarantee): https://buffer.com/resources/instagram-algorithms/
 
+## Motion-video pilot — proposed extension
+
+See [IMAGE_TO_MOTION_PILOT.md](IMAGE_TO_MOTION_PILOT.md) for researched tools, trial images, a Runway/Kling motion prompt, short-video quality checks, Meta AI disclosure and spending safeguards. No animations have been generated or paid for.
+
 ## Pending owner decisions
 
 - Two account names and target audience markets
