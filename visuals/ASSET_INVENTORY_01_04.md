@@ -1,8 +1,8 @@
 # Asset inventory — batches 01–04
 
-**Snapshot:** 2026-11-16 · **Image status:** 40 AI-generated draft PNG files outside GitHub.  
-**Source:** verified contents of four ZIP archives in the producing conversation.  
-**IMPORTANT:** Zip files must be downloaded by the owner and safely backed up. File links into a conversation and the transient `/mnt/data/` are NOT durable repository storage.
+**Verified backup — 2026-11-17:** all 40 original AI-generated PNG drafts are saved in GitHub, 10 each in `visuals/assets/batch-01/` through `batch-04/`. Asset commit: `4c680ab95c8cd1d439f2ecc28a5e775c402a54a2`. ZIP SHA-256 and CRC checks passed; PNG bytes, filenames, chunk CRCs and decompression verified. All 30 available per-image reference hashes (batches 02–04) match; batch 01 has no original per-image hash reference. All images remain **VISUAL_DRAFT**, owner approval **PENDING**; Batch 05 **NOT STARTED**.
+
+**Source:** four local ZIP archives in `/Users/admin/Downloads/`, matched to the pre-existing reference ZIP hashes below. Archives retained unchanged. [Per-image SHA-256, byte sizes, dimensions and source entries](ASSET_MANIFEST_01_04.json).
 
 ## Backups and checksums
 
@@ -71,7 +71,7 @@ HS_B04_09_Chrome_Studio_Sculpture.png
 HS_B04_10_Yellow_Tailored_Couture.png
 ```
 
-## Safe target layout after owner uploads binaries
+## Verified GitHub storage layout
 
 ```text
 visuals/
@@ -86,9 +86,20 @@ visuals/
   BATCH_04_10_POSTERS.md
 ```
 
-Do not state that these `assets` directories exist before checking GitHub.
+All four directories exist in the asset commit above, with exactly 10 original PNGs each. No previews or auxiliary ZIP files are counted.
 
 For each ZIP, Mac verification: `shasum -a 256 ~/Downloads/Helena_Silk_Batch_04_10_images.zip` (adjust name/path).
 For each extracted set, ensure ten `.png` files before and after upload.
 
 See `docs/UPLOAD_IMAGE_BACKUPS.md` for copy-ready steps.
+
+## Preservation verification
+
+| Batch | GitHub path | PNGs | Source per-image SHA-256 references |
+|---|---|---:|---|
+| 01 | [assets/batch-01/](assets/batch-01/) | 10 | Not supplied; computed hashes recorded |
+| 02 | [assets/batch-02/](assets/batch-02/) | 10 | 10 / 10 matched |
+| 03 | [assets/batch-03/](assets/batch-03/) | 10 | 10 / 10 matched |
+| 04 | [assets/batch-04/](assets/batch-04/) | 10 | 10 / 10 matched |
+
+**Total: 40 PNGs; 40 distinct SHA-256 hashes; 91,413,877 original bytes.** Every extracted file is byte-identical to its source ZIP entry; PNG signature, chunk CRCs and IDAT decompression passed. No resizing, cropping, re-encoding or filename changes.

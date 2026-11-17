@@ -1,6 +1,8 @@
 # How to back up all four Helena Silk image batches to GitHub (Mac)
 
-**Why:** GitHub currently stores editorial markdown and image registries, but the actual forty PNGs remain in four downloadable ZIP attachments. A conversation link or `/mnt/data` path is not a permanent asset repository.
+**Verified backup — 2026-11-17:** all 40 original AI-generated PNG drafts are saved in GitHub, 10 each in `visuals/assets/batch-01/` through `batch-04/`. Asset commit: `4c680ab95c8cd1d439f2ecc28a5e775c402a54a2`. ZIP SHA-256 and CRC checks passed; PNG bytes, filenames, chunk CRCs and decompression verified. All 30 available per-image reference hashes (batches 02–04) match; batch 01 has no original per-image hash reference. All images remain **VISUAL_DRAFT**, owner approval **PENDING**; Batch 05 **NOT STARTED**.
+
+[Original PNGs](../visuals/assets/) · [Integrity manifest](../visuals/ASSET_MANIFEST_01_04.json). The instructions below are retained for recovery; compare existing file hashes before any upload to avoid duplicates.
 
 **You do NOT need to split the contact sheets.** Each ZIP already contains 10 original independent PNG files. Extract those, not the contact sheet.
 

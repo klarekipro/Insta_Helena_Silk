@@ -1,7 +1,7 @@
 # HELENA SILK — PROJECT HANDOFF / ВОССТАНОВЛЕНИЕ КОНТЕКСТА
 
 > **START HERE IN ANY NEW CHAT.** Read this file first, then `README.md`, `docs/BRIEF_DECISIONS.md`, and the relevant batch registry.  
-> **Snapshot:** 2026-11-16 · **Status:** 4/5 image batches created as drafts, fifth batch NOT started. **Owner approval pending.**
+> **Snapshot:** 2026-11-17 · **Status:** 4/5 image batches created as drafts, fifth batch NOT started. **Owner approval pending.**
 
 ## Repository / branches
 
@@ -38,7 +38,9 @@ Helena Silk is an independent fashion-inspiration and fashion-education project.
 | **Total** | **40 PNGs** | **NOT APPROVED** | 40 image files ≠ 40 independent, publication-ready stories |
 | 05 | 0 | **NOT STARTED** | 10 more proposed, requiring greater diversification |
 
-**The 40 PNG binaries are NOT yet in this GitHub repository.** They exist as four conversation downloadable ZIP files. They must be downloaded and safely backed up by the owner, ideally uploaded into `visuals/assets/batch-01` through `batch-04`. This is a real outstanding dependency, not a completed GitHub backup.
+**Verified backup — 2026-11-17:** all 40 original AI-generated PNG drafts are saved in GitHub, 10 each in `visuals/assets/batch-01/` through `batch-04/`. Asset commit: `4c680ab95c8cd1d439f2ecc28a5e775c402a54a2`. ZIP SHA-256 and CRC checks passed; PNG bytes, filenames, chunk CRCs and decompression verified. All 30 available per-image reference hashes (batches 02–04) match; batch 01 has no original per-image hash reference. All images remain **VISUAL_DRAFT**, owner approval **PENDING**; Batch 05 **NOT STARTED**.
+
+Browse [original assets](visuals/assets/) and the [integrity manifest](visuals/ASSET_MANIFEST_01_04.json). Original ZIPs remain in `/Users/admin/Downloads/`; they were not deleted.
 
 **Important for image splitting:** The ZIPs already contain ten **separate PNGs** each. Do not crop the contact sheet to recover individual images; use the original PNGs. Contact sheets are only previews.
 
@@ -71,7 +73,7 @@ The ZIPs lived under `/mnt/data/` **during the producing chat**; this is not a p
 
 ## Exactly where to resume
 
-1. **If the owner is now separating/saving the fourth batch:** do not create new images. Assist with placing the ten original PNG files under `visuals/assets/batch-04/` (or confirm owner has already done so), compare against the registry and verify at least file count and filenames. Also upload batches 01–03 if owner wants all forty protected.
+1. **The binary backup is complete:** use the ten original PNGs in each `visuals/assets/batch-01/` through `batch-04/`. Verify filenames and SHA-256 against `visuals/ASSET_MANIFEST_01_04.json` when retrieving files; do not duplicate uploads or crop contact sheets.
 2. **If the owner says "fifth batch" / "next ten":** create exactly 10 *individual* new images, not a contact sheet, guided by the no-repeat register. Avoid repeating metallic silver gowns, all-cobalt dresses, emerald floral evening gowns, and bright-yellow ruffles. Prefer new shapes, pants, coats, sports-influenced architecture, graphic prints, dark-blue star embroidery, chartreuse, coral/cyan, unexpected material pairings and different models. Review each separately before packaging.
 3. Create native German and Russian descriptions, thoughtful questions, measured hashtags, and a binary manifest for each batch. Do not invent actual runway provenance or textile fibre compositions.
 4. Save all text work and decisions to `feat/editorial-foundation`; **verify each GitHub write by reading it back.**

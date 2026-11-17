@@ -8,22 +8,22 @@
 
 The conversation attachment `Helena_Silk_Batch_02_10_images.zip` contains 10 individual portrait PNGs (1122 × 1402 px each), bilingual caption drafts `CAPTIONS_DE_RU.md`, and `ASSET_MANIFEST.json` with SHA-256 hashes.
 
-**The binary PNGs are not committed to this GitHub repository.** Download the ZIP from this chat and upload the images to the branch separately if desired; the GitHub connector currently supports text writes, not the needed binary upload path.
+**All 10 original PNGs are committed** in [assets/batch-02/](assets/batch-02/); the source ZIP is retained locally.
 
 ## File and story register
 
 | Asset | Editorial idea |
 |---|---|
-| `HS_B02_01_Sculptural_Ivory_Coat.png` | Architecture of an ivory coat |
-| `HS_B02_02_Burgundy_and_Ivory.png` | Burgundy as a contrast to ivory |
-| `HS_B02_03_Parisian_Flowing_Tailoring.png` | Fluid light tailoring |
-| `HS_B02_04_Layering_in_Grey_and_Wine.png` | Layering with grey, wine and blue |
-| `HS_B02_05_Soft_Tailored_Jacket.png` | Tailored jacket and transparent skirt |
-| `HS_B02_06_Burgundy_Sculptural_Dress.png` | Architectural burgundy-and-orange dress |
-| `HS_B02_07_Black_Power_Tailoring.png` | Black power tailoring |
-| `HS_B02_08_Botanical_Skirt.png` | Printed skirt versus clean jacket |
-| `HS_B02_09_Tweed_and_Contrast.png` | Tweed and contrast details |
-| `HS_B02_10_Chocolate_Brown_Classic.png` | Cream and chocolate-brown palette |
+| [HS_B02_01_Sculptural_Ivory_Coat.png](assets/batch-02/HS_B02_01_Sculptural_Ivory_Coat.png) | Architecture of an ivory coat |
+| [HS_B02_02_Burgundy_and_Ivory.png](assets/batch-02/HS_B02_02_Burgundy_and_Ivory.png) | Burgundy as a contrast to ivory |
+| [HS_B02_03_Parisian_Flowing_Tailoring.png](assets/batch-02/HS_B02_03_Parisian_Flowing_Tailoring.png) | Fluid light tailoring |
+| [HS_B02_04_Layering_in_Grey_and_Wine.png](assets/batch-02/HS_B02_04_Layering_in_Grey_and_Wine.png) | Layering with grey, wine and blue |
+| [HS_B02_05_Soft_Tailored_Jacket.png](assets/batch-02/HS_B02_05_Soft_Tailored_Jacket.png) | Tailored jacket and transparent skirt |
+| [HS_B02_06_Burgundy_Sculptural_Dress.png](assets/batch-02/HS_B02_06_Burgundy_Sculptural_Dress.png) | Architectural burgundy-and-orange dress |
+| [HS_B02_07_Black_Power_Tailoring.png](assets/batch-02/HS_B02_07_Black_Power_Tailoring.png) | Black power tailoring |
+| [HS_B02_08_Botanical_Skirt.png](assets/batch-02/HS_B02_08_Botanical_Skirt.png) | Printed skirt versus clean jacket |
+| [HS_B02_09_Tweed_and_Contrast.png](assets/batch-02/HS_B02_09_Tweed_and_Contrast.png) | Tweed and contrast details |
+| [HS_B02_10_Chocolate_Brown_Classic.png](assets/batch-02/HS_B02_10_Chocolate_Brown_Classic.png) | Cream and chocolate-brown palette |
 
 ## Quality and provenance
 
@@ -35,3 +35,10 @@ The conversation attachment `Helena_Silk_Batch_02_10_images.zip` contains 10 ind
 - **Next batch requirement:** maximize visual variety, emphasize bright colours, complex embroidery, sculptural forms and creative seasonal looks, while continuing to avoid large numerical labels or false documentary attribution.
 
 Owner approval: **PENDING**.
+
+## Original PNG backup — 2026-11-17
+
+- Storage: [assets/batch-02/](assets/batch-02/), **10 PNGs**, original filenames and bytes.
+- Asset commit: `4c680ab95c8cd1d439f2ecc28a5e775c402a54a2`.
+- Integrity: source ZIP SHA-256 and CRC match; all extracted PNG byte hashes, chunk CRCs and decompression verified. All 10 source manifest SHA-256 values match.
+- [Per-image integrity manifest](ASSET_MANIFEST_01_04.json). Status remains **VISUAL_DRAFT**, owner approval **PENDING**.

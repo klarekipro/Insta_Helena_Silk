@@ -1,6 +1,6 @@
 {
   "project": "Helena Silk",
-  "snapshot_date": "2026-11-16",
+  "snapshot_date": "2026-11-17",
   "repository": "klarekipro/Insta_Helena_Silk",
   "working_branch": "feat/editorial-foundation",
   "checkpoint_branch": "checkpoint/batch-04-handoff-2026-11-16",
@@ -21,8 +21,10 @@
     "image_batches_completed": 4,
     "image_batches_target": 5,
     "image_png_count": 40,
-    "images_committed_to_github": false,
-    "batch_05_started": false
+    "images_committed_to_github": true,
+    "batch_05_started": false,
+    "image_asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2",
+    "image_integrity_manifest": "visuals/ASSET_MANIFEST_01_04.json"
   },
   "archive_files": [
     {
@@ -30,33 +32,59 @@
       "filename": "Helena_Silk_Batch_01_10_images.zip",
       "png_count": 10,
       "sha256": "389af8e1cf629a25a9199d7569f9091ef86bdbfc83050b7c5d0333b891d67141",
-      "unique_editorial_concepts": 6
+      "unique_editorial_concepts": 6,
+      "github_path": "visuals/assets/batch-01/",
+      "github_png_count": 10,
+      "integrity_status": "VERIFIED",
+      "asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2"
     },
     {
       "batch": 2,
       "filename": "Helena_Silk_Batch_02_10_images.zip",
       "png_count": 10,
-      "sha256": "bb1981ef0a8207b339d929e189e643a7e099d50de02693dd33efbc921a561d29"
+      "sha256": "bb1981ef0a8207b339d929e189e643a7e099d50de02693dd33efbc921a561d29",
+      "github_path": "visuals/assets/batch-02/",
+      "github_png_count": 10,
+      "integrity_status": "VERIFIED",
+      "asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2"
     },
     {
       "batch": 3,
       "filename": "Helena_Silk_Batch_03_10_images.zip",
       "png_count": 10,
-      "sha256": "0322857218724718b9aa917407c6ee20f903197aa05a8a0b4c9c43f08b2da124"
+      "sha256": "0322857218724718b9aa917407c6ee20f903197aa05a8a0b4c9c43f08b2da124",
+      "github_path": "visuals/assets/batch-03/",
+      "github_png_count": 10,
+      "integrity_status": "VERIFIED",
+      "asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2"
     },
     {
       "batch": 4,
       "filename": "Helena_Silk_Batch_04_10_images.zip",
       "png_count": 10,
-      "sha256": "669f9713ce96636fb683aa2421bde06224cee1d03cb3450a71f44301d6a12cf8"
+      "sha256": "669f9713ce96636fb683aa2421bde06224cee1d03cb3450a71f44301d6a12cf8",
+      "github_path": "visuals/assets/batch-04/",
+      "github_png_count": 10,
+      "integrity_status": "VERIFIED",
+      "asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2"
     }
   ],
-  "blocking_dependency": "Owner download + GitHub upload of binary PNG files from four ZIPs",
+  "blocking_dependency": null,
   "next_actions": [
-    "Back up all 40 PNG originals to visuals/assets/batch-01..04",
     "Owner reviews/approves selected images",
     "Create Batch 05 with 10 meaningfully new looks if requested",
     "Native DE/RU posts from approved assets",
     "Never claim AI illustration is an actual runway photograph"
-  ]
+  ],
+  "backup_verification": {
+    "date": "2026-11-17",
+    "zip_sha256_matches": 4,
+    "zip_crc_passed": 4,
+    "png_count": 40,
+    "png_bytes_preserved": true,
+    "png_chunk_crc_and_decompression_passed": 40,
+    "source_per_image_sha256_matches": 30,
+    "batch_01_source_per_image_hashes_available": false,
+    "status": "ALL_40_ORIGINAL_PNGS_SAVED_IN_GITHUB"
+  }
 }

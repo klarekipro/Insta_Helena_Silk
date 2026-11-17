@@ -2,7 +2,7 @@
 
 **Date:** 2026-11-16
 **Result:** 10 individual PNG posters, 6 unique editorial themes plus 4 additional art-direction variants.
-**Binary storage:** Images are delivered in the conversation archive `Helena_Silk_Batch_01_10_images.zip` for owner download; **the PNG files have not been uploaded to GitHub**.
+**Binary storage:** 10 original PNGs are committed in [assets/batch-01/](assets/batch-01/); source archive `Helena_Silk_Batch_01_10_images.zip` is retained locally.
 
 | Filename in ZIP | Concept | Notes |
 |---|---|---|
@@ -21,4 +21,11 @@
 
 **Planning correction:** The user expects five batches of ten images. For the next batch, prioritize *distinct new concepts* rather than repeated variations: 03 (women's tuxedo), 16 (skirt as essential), 29 (embroidery), 09 (painting-to-fashion), then six more unused concepts.
 
-Owner downloads the ZIP, saves it locally, then explicitly requests the next cycle.
+Original ZIP is retained locally; the owner reviews the drafts and explicitly requests the next cycle.
+
+## Original PNG backup — 2026-11-17
+
+- Storage: [assets/batch-01/](assets/batch-01/), **10 PNGs**, original filenames and bytes.
+- Asset commit: `4c680ab95c8cd1d439f2ecc28a5e775c402a54a2`.
+- Integrity: source ZIP SHA-256 and CRC match; all extracted PNG byte hashes, chunk CRCs and decompression verified. Source manifest has no per-image hashes; computed values are recorded for future checks.
+- [Per-image integrity manifest](ASSET_MANIFEST_01_04.json). Status remains **VISUAL_DRAFT**, owner approval **PENDING**.

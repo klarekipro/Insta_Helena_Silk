@@ -1,0 +1,576 @@
+{
+  "project": "Helena Silk",
+  "verified_date": "2026-11-17",
+  "asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2",
+  "image_status": "VISUAL_DRAFT",
+  "owner_approval": "PENDING",
+  "image_kind": "AI-generated fictional fashion illustrations, not authentic runway photographs",
+  "png_count": 40,
+  "total_bytes": 91413877,
+  "verification": "All four reference ZIP SHA-256 and CRC checks passed. PNG entry bytes, signatures, chunk CRCs and IDAT decompression verified. All 30 available source per-image hashes matched. Batch 01 had no source per-image hashes.",
+  "archives": [
+    {
+      "batch": 1,
+      "filename": "Helena_Silk_Batch_01_10_images.zip",
+      "png_count": 10,
+      "sha256": "389af8e1cf629a25a9199d7569f9091ef86bdbfc83050b7c5d0333b891d67141",
+      "unique_editorial_concepts": 6,
+      "github_path": "visuals/assets/batch-01/",
+      "github_png_count": 10,
+      "integrity_status": "VERIFIED",
+      "asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2"
+    },
+    {
+      "batch": 2,
+      "filename": "Helena_Silk_Batch_02_10_images.zip",
+      "png_count": 10,
+      "sha256": "bb1981ef0a8207b339d929e189e643a7e099d50de02693dd33efbc921a561d29",
+      "github_path": "visuals/assets/batch-02/",
+      "github_png_count": 10,
+      "integrity_status": "VERIFIED",
+      "asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2"
+    },
+    {
+      "batch": 3,
+      "filename": "Helena_Silk_Batch_03_10_images.zip",
+      "png_count": 10,
+      "sha256": "0322857218724718b9aa917407c6ee20f903197aa05a8a0b4c9c43f08b2da124",
+      "github_path": "visuals/assets/batch-03/",
+      "github_png_count": 10,
+      "integrity_status": "VERIFIED",
+      "asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2"
+    },
+    {
+      "batch": 4,
+      "filename": "Helena_Silk_Batch_04_10_images.zip",
+      "png_count": 10,
+      "sha256": "669f9713ce96636fb683aa2421bde06224cee1d03cb3450a71f44301d6a12cf8",
+      "github_path": "visuals/assets/batch-04/",
+      "github_png_count": 10,
+      "integrity_status": "VERIFIED",
+      "asset_commit": "4c680ab95c8cd1d439f2ecc28a5e775c402a54a2"
+    }
+  ],
+  "assets": [
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_01_DIOR_v01.png",
+      "bytes": 2197980,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "a9ae290d3a83d881af6095126f632972868aa587958fd3554dabe6229af08b57",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_01_DIOR_v01.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_01_DIOR_v02.png",
+      "bytes": 2175732,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "0ff0359a95a7e1ab492bccc76802f8d5d44375a39ec38c1dcb72c878c0f3c804",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_01_DIOR_v02.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_07_CHANEL_v01.png",
+      "bytes": 2503436,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "ca56414d7f83a8343e45af864999cc34967ba4090197d4af282a365f96375d01",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_07_CHANEL_v01.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_07_CHANEL_v02.png",
+      "bytes": 2315017,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "068de54422ee116dc52c4960a4b183d374a118f05a29caf176bc58d629808916",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_07_CHANEL_v02.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_11_PRADA_v01.png",
+      "bytes": 2522802,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "ac0d139285097ea442457f30d9749e140d0c8a7d031d88b09bdef8cdf38263f8",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_11_PRADA_v01.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_11_PRADA_v02.png",
+      "bytes": 2100032,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "173b81711edc419a1ecb01710d88557976ebd9c22e00d960e2dfc9ff982b2a78",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_11_PRADA_v02.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_14_BOTTEGA_v01.png",
+      "bytes": 2198209,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "fdc763ffce54b96b7bbf4992e3a7db0c07934db1d250d302b7c9867709a31bcd",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_14_BOTTEGA_v01.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_21_MANS_v01.png",
+      "bytes": 2636576,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "ae3de9308c657f633dfbfd5f0297846c549196a42c7aecd9603e62d5830af27b",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_21_MANS_v01.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_21_MANS_v02.png",
+      "bytes": 2336214,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "5a0133086692a078b2d58e780376a7a84f976acec775d0c314afbe12e4c1f179",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_21_MANS_v02.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 1,
+      "path": "visuals/assets/batch-01/HS_26_ERNESTO_v01.png",
+      "bytes": 2292679,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "89533f7347aff8105ef0db5dd4d755d9cee6e6ff3d290be6af388f903e799aa3",
+      "source_archive": "Helena_Silk_Batch_01_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_01/HS_26_ERNESTO_v01.png",
+      "source_manifest_sha256_verified": false
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_01_Sculptural_Ivory_Coat.png",
+      "bytes": 2063095,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "ac0e3bfc58e4dbfe4169099a2468e840b781957c7547d98dd1164f9303d634bb",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_01_Sculptural_Ivory_Coat.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_02_Burgundy_and_Ivory.png",
+      "bytes": 2178727,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "9f5c3f8a0094e19c548fa74f24c50182d9cb9d2aa07da59fba184d57b0205e75",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_02_Burgundy_and_Ivory.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_03_Parisian_Flowing_Tailoring.png",
+      "bytes": 2262739,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "7e743863c18e8f44ea1ed89c757bbd7e3e1ea20a88afb591fd9887884c14e3ff",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_03_Parisian_Flowing_Tailoring.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_04_Layering_in_Grey_and_Wine.png",
+      "bytes": 2401158,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "b6f5098ff3256c751ec62733f4fd440e402949ecd3df670a3dca324dd253279c",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_04_Layering_in_Grey_and_Wine.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_05_Soft_Tailored_Jacket.png",
+      "bytes": 2080749,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "252827f14851050a81ed62f23316ba39d422fe5c4f24b1c876872b7a157af810",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_05_Soft_Tailored_Jacket.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_06_Burgundy_Sculptural_Dress.png",
+      "bytes": 2087085,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "5bb8e675654bfefd1870714d561da5dacd10667feb5b80b52f9097af79e79f91",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_06_Burgundy_Sculptural_Dress.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_07_Black_Power_Tailoring.png",
+      "bytes": 1968468,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "0e10734f382965b4a2a2695a1e7f3b2c694ffe38d29855a79e1936d46ee760f3",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_07_Black_Power_Tailoring.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_08_Botanical_Skirt.png",
+      "bytes": 2112598,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "9bb9e4bf5f155de1144a61dc199299be43bb7f97fff915434f0b4daa6da273e4",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_08_Botanical_Skirt.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_09_Tweed_and_Contrast.png",
+      "bytes": 2077380,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "fb77e655906f3f2865308f2dc304b9c9eac4d4f9d55a35614c6b14b0a98d3a24",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_09_Tweed_and_Contrast.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 2,
+      "path": "visuals/assets/batch-02/HS_B02_10_Chocolate_Brown_Classic.png",
+      "bytes": 2102947,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "d6ba6bfbf1ef243c69d6a61c7111796a1c1c816c74395ad11aa3c0fc652bdc28",
+      "source_archive": "Helena_Silk_Batch_02_10_images.zip",
+      "source_entry": "HS_B02_10_Chocolate_Brown_Classic.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_01_Petal_Sculpture_Purple_Gold.png",
+      "bytes": 2751533,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "fb44be20d7f11d168406d797e4630111b3bcad5e18c2a6059bab8f0a2eeef686",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_01_Petal_Sculpture_Purple_Gold.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_02_Burgundy_Floral_Organza.png",
+      "bytes": 2625607,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "c842771ba25b87dcedffc05caf1c50d73b28f23f290d52795a0dc03603ecf7fb",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_02_Burgundy_Floral_Organza.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_03_Silver_Transparent_Couture.png",
+      "bytes": 2667731,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "7b9326fc43445cbdb760130b406d2305768a6d221e2bc583d8733bbf47eb509b",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_03_Silver_Transparent_Couture.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_04_Ivory_Satin_Origami.png",
+      "bytes": 2444378,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "aeef1aa7ed9b6a43a14977a41472acd03f6bec414a2ba135e363b20cc49350fd",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_04_Ivory_Satin_Origami.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_05_Teal_Embroidered_Coat.png",
+      "bytes": 2570992,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "5e3e46b5c2d4864f06e83ff9cd2686c636ef926e1e33d5bdcea83fc280472e33",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_05_Teal_Embroidered_Coat.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_06_Champagne_Gold_Waves.png",
+      "bytes": 2481576,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "774666eb112c5ff6e194937e5877fa5448fa77f926b4a062c7c4a8ce0d106c62",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_06_Champagne_Gold_Waves.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_07_Black_White_Geometry.png",
+      "bytes": 2046994,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "f55f11398a38d00aa9ac1a48376341ff87edda831f346fc231ea2a1774ea097e",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_07_Black_White_Geometry.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_08_Plum_Bronze_Asymmetry.png",
+      "bytes": 2144186,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "af87acdb964fe85a58f4f6db1f7353ae1e3a1242ab720a8d6979fd5c05171722",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_08_Plum_Bronze_Asymmetry.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_09_Mustard_Plum_Layering.png",
+      "bytes": 2466614,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "3f303637895cb031e0364458532ce5572f20397abb906d24d8664564e12a8a5e",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_09_Mustard_Plum_Layering.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 3,
+      "path": "visuals/assets/batch-03/HS_B03_10_Saffron_Embroidered_Coat.png",
+      "bytes": 2290570,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "3b264c694d03ea8059e0937b19e2b59b69edcba75b44e5806023611637ca463c",
+      "source_archive": "Helena_Silk_Batch_03_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_03/HS_B03_10_Saffron_Embroidered_Coat.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_01_Cobalt_Emerald_Contrast.png",
+      "bytes": 2173310,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "4bccfda8184c7b482a416ccc6c11d771298dc90f3ade394177617368b986c775",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_01_Cobalt_Emerald_Contrast.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_02_Sunshine_Transparent_Ruffles.png",
+      "bytes": 2220639,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "7894a2530c38d1be4d6032062ac6e00534303a59356a00edba332b3a8556fd1d",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_02_Sunshine_Transparent_Ruffles.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_03_Emerald_Gold_Embroidery.png",
+      "bytes": 2320584,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "3f8ce927b9e2a61c9c9ec8ea189f557847b925d0849fa429f27587e562f93e4d",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_03_Emerald_Gold_Embroidery.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_04_Yellow_Silver_Architecture.png",
+      "bytes": 2261288,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "6cbf4cefb4d2519ac0136161c3d068e2da3a32a03741ff6aa447d95410b60815",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_04_Yellow_Silver_Architecture.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_05_Chrome_Pleated_Futurism.png",
+      "bytes": 2531884,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "0d81afde35ec61b243801597f1395310f0ee4e8725ebfbf8b9b3ef5cb2457be9",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_05_Chrome_Pleated_Futurism.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_06_Fuchsia_Orange_Tailoring.png",
+      "bytes": 1957698,
+      "dimensions": [
+        1122,
+        1402
+      ],
+      "sha256": "337b8cf12b0adeabe29c91a8676818ff5d440be89868d5e66715445a365285f8",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_06_Fuchsia_Orange_Tailoring.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_07_Cobalt_Pantsuit_Origami.png",
+      "bytes": 2060096,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "ca340af6fbc34275b649ac05bf5849850125bc27be5c1e85396306734c4533b4",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_07_Cobalt_Pantsuit_Origami.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_08_Emerald_Sheer_Garden.png",
+      "bytes": 2318806,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "bc2f985646f18980f58ac2b1b1bb4069a06160ce50fc15c2343c031c10584311",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_08_Emerald_Sheer_Garden.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_09_Chrome_Studio_Sculpture.png",
+      "bytes": 2361240,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "b7bb84a2601e5dfef6707aa5caddcc2ce12c4b68a673f3a854f13543208a3fa1",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_09_Chrome_Studio_Sculpture.png",
+      "source_manifest_sha256_verified": true
+    },
+    {
+      "batch": 4,
+      "path": "visuals/assets/batch-04/HS_B04_10_Yellow_Tailored_Couture.png",
+      "bytes": 2104528,
+      "dimensions": [
+        1024,
+        1536
+      ],
+      "sha256": "9b4381d44c2d96c87b2318551f71d23b5012a162c42d6b5f4e2870137d141347",
+      "source_archive": "Helena_Silk_Batch_04_10_images.zip",
+      "source_entry": "Helena_Silk_Batch_04/HS_B04_10_Yellow_Tailored_Couture.png",
+      "source_manifest_sha256_verified": true
+    }
+  ]
+}

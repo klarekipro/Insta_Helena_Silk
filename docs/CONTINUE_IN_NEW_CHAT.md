@@ -8,7 +8,7 @@ We are continuing **Helena Silk**. Repository: `klarekipro/Insta_Helena_Silk`, b
 
 Project principle: **«Мы создаём не каталог красивой одежды, а авторский взгляд на мир моды».** German and Russian content; native localization; educational fashion analysis. Style: elegant classic × creative modern runway, full-body image, high aesthetic quality, thoughtful details, varied models/silhouettes/colours.
 
-We have completed **4 batches × 10 PNGs = 40 draft images**, but some are variants, not 40 unique concepts. **Batch 05 has not started.** First four batches have GitHub Markdown registers and draft captions; **PNG binaries have not been committed to GitHub yet** and reside in downloadable ZIP archives from prior conversation. Never claim they are already on GitHub. If I say that I uploaded them, check files in the repo first.
+We have completed **4 batches × 10 PNGs = 40 draft images**, but some are variants, not 40 unique concepts. **Batch 05 has not started.** All 40 original PNGs are preserved in `visuals/assets/batch-01/` through `batch-04/` (10 each), asset commit `4c680ab95c8cd1d439f2ecc28a5e775c402a54a2`. ZIP integrity and original bytes are verified; use `visuals/ASSET_MANIFEST_01_04.json` for per-file hashes. Original ZIPs are retained locally. Do not upload duplicates; check the current branch inventory first.
 
 **Images must have no large numerals, no designer logos, no heavy text, no collage layouts.** Generate one standalone full-length fashion image per output. No visual reuse of previous batches, particularly ivory/beige coats, burgundy-gray layered sets, cobalt gowns, yellow organza, metallic/chrome gowns, emerald embroidered dresses. Do not claim a synthetic image is documentary runway photography.
 

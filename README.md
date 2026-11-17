@@ -1,6 +1,6 @@
 # Helena Silk — Fashion Editorial Studio
 
-**Status:** Research and 30-concept editorial draft v0.2 · 16 November 2026  
+**Status:** Research and 30-concept editorial draft v0.2 · original image backup verified 17 November 2026<br>
 **Languages:** Deutsch / Русский  
 **Geographic focus:** France, Italy, Spain  
 **Collections:** Autumn/Winter 2026–2027 and Spring/Summer 2027
@@ -15,7 +15,9 @@
 - [Binary upload instructions for Mac/GitHub](docs/UPLOAD_IMAGE_BACKUPS.md)
 - [Machine-readable project state](visuals/PROJECT_STATE.json)
 
-**Verified status on 2026-11-16:** 40 original AI PNG **draft files** across 4 ZIPs, but the PNGs are **not yet saved in GitHub**. The owner must download and back up the archives and ideally upload the PNGs into `visuals/assets/`. Batch 05 remains **NOT STARTED**.
+**Verified backup — 2026-11-17:** all 40 original AI-generated PNG drafts are saved in GitHub, 10 each in `visuals/assets/batch-01/` through `batch-04/`. Asset commit: `4c680ab95c8cd1d439f2ecc28a5e775c402a54a2`. ZIP SHA-256 and CRC checks passed; PNG bytes, filenames, chunk CRCs and decompression verified. All 30 available per-image reference hashes (batches 02–04) match; batch 01 has no original per-image hash reference. All images remain **VISUAL_DRAFT**, owner approval **PENDING**; Batch 05 **NOT STARTED**.
+
+[Browse original PNGs](visuals/assets/) · [Per-image integrity manifest](visuals/ASSET_MANIFEST_01_04.json)
 
 ## Our north star
 
@@ -74,6 +76,6 @@ Paris, Milan and Spanish fashion events; designers and collections; silhouettes,
 
 **Confirmed brief:** classic × contemporary experimental; full-body runway imagery as primary visual; educational fashion analysis as voice.
 
-**Current stage:** 30 ideas prepared as editorial drafts and 10 pilot concepts proposed. No photos acquired, generated, licensed or approved; no Instagram posts published.
+**Current stage:** 30 ideas prepared as editorial drafts and 10 pilot concepts proposed. 40 fictional AI fashion PNG drafts generated and preserved; no authentic runway photos acquired or licensed, no images owner-approved, and no Instagram posts published.
 
 **Next decision:** Helena reviews the pilot selection and direction; then the team verifies exact look references, image permissions and prepares full DE/RU captions.
